@@ -1,6 +1,6 @@
 # Flutter: VIP siganl app
 
-A new simple VIP signal project with Flutter.
+💰simple VIP signal project with Flutter.
 
 <br/>
 
