@@ -1,8 +1,9 @@
-# Flutter: VIP signl app
+# Flutter: VIP siganl app
 
 A new simple VIP signal project with Flutter.
 
-#Support
+##Support:
+
 -Android
 -IOS
 
