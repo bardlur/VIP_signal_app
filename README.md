@@ -6,9 +6,8 @@ A new simple VIP signal project with Flutter.
 
 ## Support :
 
--Android
-
--IOS
+- Android
+- IOS
 
 <br/>
 
