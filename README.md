@@ -1,6 +1,6 @@
-# signal_vip_pp
+# Flutter: VIP signl app
 
-A new Flutter project.
+A new simple VIP signal project with Flutter.
 
 ## Getting Started
 
